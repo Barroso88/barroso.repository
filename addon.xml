@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="barroso.repository" name="Barroso Repository" version="0.0.2" provider-name="Barroso88">
+	<extension point="xbmc.addon.repository" name="Barroso Add-on Repository">
+		<info compressed="false">http://raw.github.com/Barroso88/barroso.repository/master/addons.xml</info>
+		<checksum>http://raw.github.com/Barroso88/barroso.repository/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/Barroso88/barroso.repository/master/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Barroso Addon</summary>
+		<description>Addon Description</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
